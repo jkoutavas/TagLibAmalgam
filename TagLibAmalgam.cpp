@@ -19,6 +19,12 @@
   ==============================================================================
 */
 
+#pragma warning(disable:4018)
+#pragma warning(disable:4244)
+#pragma warning(disable:4309)
+#pragma warning(disable:4310)
+#pragma warning(disable:4456)
+
 #define TAGLIB_NO_CONFIG
 #define MAKE_TAGLIB_LIB
 #define TAGLIB_STATIC
